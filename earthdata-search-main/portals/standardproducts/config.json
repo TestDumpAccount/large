@@ -1,0 +1,13 @@
+{
+  "org": "Standard Products",
+  "pageTitle": "Standard Products",
+  "parentConfig": "edsc",
+  "query": {
+    "hasGranulesOrCwic": null,
+    "standardProduct": true
+  },
+  "ui": {
+    "showOnlyGranulesCheckbox": false,
+    "showNonEosdisCheckbox": false
+  }
+}
